@@ -60,7 +60,7 @@ mvn clean test
 
 ### Ejecutar por tags
 ```
-# Regression tests
+Tests de regresion
 mvn test -Dcucumber.filter.tags="@regression"
 ```
 
@@ -75,8 +75,9 @@ mvn test -Dcucumber.features="src/test/resources/features/Login.feature"
 
 Los reportes se generan automáticamente después de cada ejecución:
 ```
-# Reportes HTML
+Reportes HTML
 target/cluecumber-report/index.html
 ```
+
 
 
