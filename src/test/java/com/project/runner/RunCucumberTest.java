@@ -1,4 +1,4 @@
-package com.choucair.runner;
+package com.project.runner;
 
 import io.cucumber.junit.platform.engine.Cucumber;
 
@@ -6,5 +6,5 @@ import io.cucumber.junit.platform.engine.Cucumber;
 public class RunCucumberTest {
     // Cucumber buscará automáticamente:
     // - Features en: src/test/resources/features/
-    // - Step definitions en: com.choucair (y subpaquetes)
+    // - Step definitions en: com.project (y subpaquetes)
 }

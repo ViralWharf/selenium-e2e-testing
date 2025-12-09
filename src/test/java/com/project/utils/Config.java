@@ -1,4 +1,4 @@
-package com.choucair.utils;
+package com.project.utils;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;

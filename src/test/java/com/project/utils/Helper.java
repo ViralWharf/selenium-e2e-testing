@@ -1,4 +1,4 @@
-package com.choucair.utils;
+package com.project.utils;
 
 import java.time.Duration;
 
