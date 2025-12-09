@@ -4,7 +4,7 @@ Framework de automatización de pruebas End-to-End con **Selenium WebDriver**, *
 
 ---
 
-## 🛠 Tecnologías
+## Tecnologías
 
 - **Java 17+** - Lenguaje de programación
 - **Selenium WebDriver** - Automatización de navegadores
@@ -78,4 +78,5 @@ Los reportes se generan automáticamente después de cada ejecución:
 # Reportes HTML
 target/cluecumber-report/index.html
 ```
+
 
